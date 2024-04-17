@@ -17,6 +17,13 @@ npm run build
 npm run preview
 ```
 
+Open `http://localhost:5173`
+
+or
+
+Set the environment variable `PORT` and open `http://localhost:<PORT>`
+
+
 ### Screenshots
 ![](./screenshots/mainPage.png)
 ![](./screenshots/addPage.png)
