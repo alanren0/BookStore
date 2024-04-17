@@ -2,8 +2,6 @@
 
 Install packages
 ``` bash
-cd bookstore
-
 npm install
 ```
 
